@@ -1,0 +1,4 @@
+../Core/Src/Misc.c:15:6:temporisation	24	static
+../Core/Src/Misc.c:21:6:LED_Rotate	24	static
+../Core/Src/Misc.c:35:6:LED_Blink	24	static
+../Core/Src/Misc.c:50:6:LED_Operate	16	static

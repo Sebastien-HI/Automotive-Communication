@@ -1,0 +1,12 @@
+../Core/Src/lcd_displaytech162.c:12:6:Init_PortB	4	static
+../Core/Src/lcd_displaytech162.c:29:6:Init_PortDasRead	4	static
+../Core/Src/lcd_displaytech162.c:40:6:Init_PortDasWrite	4	static
+../Core/Src/lcd_displaytech162.c:54:6:lcd_read_nibble	16	static
+../Core/Src/lcd_displaytech162.c:69:6:lcd_read_byte	16	static
+../Core/Src/lcd_displaytech162.c:77:6:lcd_send_nibble	16	static
+../Core/Src/lcd_displaytech162.c:90:6:lcd_send_byte	16	static
+../Core/Src/lcd_displaytech162.c:105:6:lcd_init	16	static
+../Core/Src/lcd_displaytech162.c:137:6:lcd_gotoxy	24	static
+../Core/Src/lcd_displaytech162.c:148:6:lcd_putc	16	static
+../Core/Src/lcd_displaytech162.c:153:6:lcd_puts	24	static
+../Core/Src/lcd_displaytech162.c:169:6:lcd_clear	8	static

@@ -1,0 +1,4 @@
+../Core/Src/CAN.c:18:6:MX_CAN1_Init	56	static
+../Core/Src/CAN.c:71:6:CAN_Act	32	static
+../Core/Src/CAN.c:81:6:CAN_Send	64	static
+../Core/Src/CAN.c:105:9:CAN_Get	8	static

@@ -1,0 +1,16 @@
+../Core/Src/main.c:109:5:main	336	static
+../Core/Src/main.c:247:6:SystemClock_Config	88	static
+../Core/Src/main.c:300:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:339:6:CallUpdateExtClock	16	static
+../Core/Src/main.c:362:6:CallUpdateOwnClock	64	static
+../Core/Src/main.c:385:6:StartTask_LIN_Selector	48	static
+../Core/Src/main.c:435:6:StartOp_RTCtoLIN	32	static
+../Core/Src/main.c:463:6:StartOp_LINtoRTC	64	static
+../Core/Src/main.c:487:6:StartTaskOp_LINtoCAN	32	static
+../Core/Src/main.c:513:6:StartTaskOp_LEDtoLIN	32	static
+../Core/Src/main.c:536:6:StartTask_Op_CANtoLIN	24	static
+../Core/Src/main.c:564:6:StartTaskIDLE	16	static
+../Core/Src/main.c:582:6:StartTask_Op_LINtoLED	32	static
+../Core/Src/main.c:596:6:CBClock	16	static
+../Core/Src/main.c:611:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:628:6:Error_Handler	8	static,ignoring_inline_asm

@@ -1,0 +1,7 @@
+../Core/Src/LIN-Operator.c:14:6:LIN_USART_IRQ_Selector	32	static
+../Core/Src/LIN-Operator.c:49:6:Op_CANtoLIN	32	static
+../Core/Src/LIN-Operator.c:60:6:Op_LINtoCAN	16	static
+../Core/Src/LIN-Operator.c:71:6:Op_RTCtoLIN	32	static
+../Core/Src/LIN-Operator.c:85:6:Op_LINtoRTC	56	static
+../Core/Src/LIN-Operator.c:92:6:Op_LEDtoLIN	24	static
+../Core/Src/LIN-Operator.c:101:6:Op_LINtoLED	16	static
